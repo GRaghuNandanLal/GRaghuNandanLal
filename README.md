@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GRaghuNandanLal
 - 👀 I’m interested in Data Science and Big Data Analytics
-- 🌱 I’m currently learning B-Tech at Kluniversity
+- 🌱 I’m currently learning B-Tech[CSE] at Kluniversity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail-raghunandanlalgarikipati@gmail.com
 
